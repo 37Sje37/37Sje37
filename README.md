@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @37Sje37
+- 👋 Hi, I’m @Sje37
 - 👀 I’m interested in cybersecurity and creating new software
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate who ever wants
